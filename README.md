@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Parcel Starter Kit
 
 This is a minimal React starter project that uses the [Parcel JS](https://www.parceljs.org) to build the project. Only React and React DOM modules have been installed
@@ -36,3 +37,7 @@ Open the file `package.json` and update the repository details. You may also nee
 ## Contribution
 
 Simply create a fork of this project. Do your contribution on a separate branch then submit a pull request for review.
+=======
+# buddy-demo
+Demo for creating pipelines that only pull changes automatically and run tests.
+>>>>>>> 530619d6fca6c462e8e5553cb5101be520a9a170
